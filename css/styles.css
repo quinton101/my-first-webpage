@@ -1,18 +1,20 @@
-h1 {
+h1  {
   color: blue;
   text-align: center;
 }
 
-h2 {
+h2  {
+  color: gold;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+p  {
+  font-family: fantasy;
+  color: pink;
+}
+
+ul  {
   font-style: italic;
-  text-align: center;
-}
-
-p {
-  font-family: sans-serif;
-}
-
-ul {
-  font-size: 20px;
-  line-height: 30px;
+  line-height: 1.75em;
 }
